@@ -1,0 +1,240 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+
+
+.divbanner {
+    background-image: url("images/donation11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.maintitle {
+    font-size: 60px;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.404);
+
+}
+
+.divbanner div {
+    padding: 15%;
+}
+
+.heading2text {
+    background-color: rgba(255, 255, 255, 0.404);
+    color: black;
+    font-size: 20px;
+    padding: 5px;
+    display: inline-block;
+    padding-bottom: 30px;
+}
+
+.option1 {
+    size: 24px 24px;
+    align-items: center;
+    text-align: center;
+    border: none;
+
+}
+
+.donatetoday {
+    align-items: center;
+    text-align: center;
+}
+
+.heading2 {
+    font-size: 40px;
+}
+
+
+.mainButton {
+    text-decoration: none;
+    margin-top: 40px;
+    background-color: orangered;
+    padding: 12px 42px;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.mainButton2 {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 12px 42px;
+    color: white;
+    text-align: center;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+
+
+
+.options {
+    text-align: center;
+    margin: 2px 20%;
+}
+
+.option1 {
+    height: 130px;
+    width: 130px;
+    margin: 5px;
+    font-size: 20px;
+    border-radius: 8px;
+    border-color: #F0F0F0;
+    font-weight: 900;
+    color: grey;
+}
+
+.option_select {
+    height: 130px;
+    width: 130px;
+    margin: 5px;
+    border: 2px solid #FF5959;
+    color: #FF5959;
+    background-color: #FFEEEE;
+    font-size: 20px;
+    border-radius: 8px;
+    font-weight: 900;
+
+}
+
+.otheramount {
+    text-align: center;
+    margin: 20px;
+}
+
+.Plan {
+    text-align: center;
+    margin: 100px 30px 40px 30px;
+}
+
+.Contribute {
+    display: flex;
+    justify-items: center;
+    margin: 30px;
+}
+
+.contributeinfo {
+    width: 45%;
+    margin: 10px;
+    padding-left: 5%;
+}
+
+.contributeinfo img {
+    width: 80%;
+    border-radius: 5px;
+}
+
+.helptypes {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.food {
+    margin: 15px;
+    background-color: #EDF5F6;
+    padding: 40px;
+    width: 30%;
+}
+
+.shelter {
+    margin: 15px;
+    background-color: #FFEEEE;
+    padding: 40px;
+    width: 30%;
+}
+
+.education {
+    margin: 15px;
+    background-color: #FFF4D6;
+    padding: 40px;
+    width: 30%;
+}
+
+.imgicon {
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.planheading {
+    font-size: 20px;
+}
+
+.plantext {
+    font-size: 20px;
+    color: gray;
+}
+
+.featured {
+    padding-top: 40px;
+    text-align: center;
+}
+
+.featured img {
+    width: 70%;
+}
+
+.otheramount input {
+    width: 400px;
+    border: 0px;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    margin: 20px;
+}
+
+.updatestext {
+    text-align: center;
+}
+
+.email {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 20%;
+    background-color: #FFF4D6;
+    padding: 70px 60px;
+
+}
+
+.emailbox {
+    border-top-left-radius: 5px;
+    padding: 11px 50px 11px 10px;
+    border-bottom-left-radius: 5px;
+    border: none;
+    background-color: rgb(235, 235, 235);
+    color: grey;
+}
+
+.emailbutton {
+    border: none;
+    color: white;
+    padding: 11px 14px;
+    background-color: #FF5959;
+
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+.footer {
+    background-color: black;
+    padding: 40px 30px;
+    text-align: center;
+
+}
+
+#footertitle {
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+
+}
+
+#footertext {
+    color: grey;
+}
